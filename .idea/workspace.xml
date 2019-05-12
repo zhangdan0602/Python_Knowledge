@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f3fc1e-2ffd-4072-b368-b3632bb97d2f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/condition.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/dict_set.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/list_tuple.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic/loop.py" />
-      <change beforePath="$PROJECT_DIR$/basic/datatype.py" afterPath="$PROJECT_DIR$/basic/datatype.py" />
-      <change beforePath="$PROJECT_DIR$/basic/format.py" afterPath="$PROJECT_DIR$/basic/format.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/functions/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/functions/call_function.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/functions/def_function.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/functions/params.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/functions/recurse.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,6 +15,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Python_Knowledge" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -38,21 +41,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_tuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/list_tuple.py">
+      <file leaf-file-name="def_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/def_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="42" column="54" lean-forward="false" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+            <state relative-caret-position="122">
+              <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dict_set.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/dict_set.py">
+      <file leaf-file-name="params.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/params.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="5">
+              <caret line="125" column="21" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recurse.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions/recurse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="call_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/call_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -81,14 +104,19 @@
         <option value="$PROJECT_DIR$/basic/loop.py" />
         <option value="$PROJECT_DIR$/basic/list_tuple.py" />
         <option value="$PROJECT_DIR$/basic/dict_set.py" />
+        <option value="$PROJECT_DIR$/functions/call_function.py" />
+        <option value="$PROJECT_DIR$/functions/def_function.py" />
+        <option value="$PROJECT_DIR$/functions/params.py" />
+        <option value="$PROJECT_DIR$/functions/recruise.py" />
+        <option value="$PROJECT_DIR$/functions/recurse.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="305" />
-    <option name="y" value="138" />
+    <option name="x" value="28" />
+    <option name="y" value="71" />
     <option name="width" value="1264" />
-    <option name="height" value="635" />
+    <option name="height" value="626" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -136,7 +164,7 @@
             <path>
               <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,20 +189,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dict_set">
-    <configuration name="condition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.recurse">
+    <configuration name="call_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/call_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="def_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Knowledge" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/def_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,74 +244,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="encode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="params" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/encode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/params.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="list_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recurse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/list_tuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/recurse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.encode" />
-      <item index="1" class="java.lang.String" itemvalue="Python.list_tuple" />
-      <item index="2" class="java.lang.String" itemvalue="Python.condition" />
-      <item index="3" class="java.lang.String" itemvalue="Python.loop" />
-      <item index="4" class="java.lang.String" itemvalue="Python.dict_set" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dict_set" />
+      <item index="1" class="java.lang.String" itemvalue="Python.call_function" />
+      <item index="2" class="java.lang.String" itemvalue="Python.def_function" />
+      <item index="3" class="java.lang.String" itemvalue="Python.params" />
+      <item index="4" class="java.lang.String" itemvalue="Python.recurse" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.dict_set" />
-        <item index="1" class="java.lang.String" itemvalue="Python.list_tuple" />
-        <item index="2" class="java.lang.String" itemvalue="Python.loop" />
-        <item index="3" class="java.lang.String" itemvalue="Python.condition" />
-        <item index="4" class="java.lang.String" itemvalue="Python.encode" />
+        <item index="0" class="java.lang.String" itemvalue="Python.recurse" />
+        <item index="1" class="java.lang.String" itemvalue="Python.params" />
+        <item index="2" class="java.lang.String" itemvalue="Python.def_function" />
+        <item index="3" class="java.lang.String" itemvalue="Python.call_function" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dict_set" />
       </list>
     </recent_temporary>
   </component>
@@ -286,10 +314,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="305" y="138" width="1264" height="635" extended-state="0" />
+    <frame x="28" y="71" width="1264" height="626" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18903437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11292962" sideWeight="0.49340865" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -297,7 +325,7 @@
       <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="117" y="468" width="1243" height="231" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11292962" sideWeight="0.5065913" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -348,14 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/encode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/list_tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
@@ -368,6 +388,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/encode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/call_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/def_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="125" column="21" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/recurse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
