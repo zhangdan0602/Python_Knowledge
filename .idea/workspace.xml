@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f3fc1e-2ffd-4072-b368-b3632bb97d2f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/advanced_feature/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/advanced_feature/generator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/advanced_feature/iterate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/advanced_feature/iterator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/advanced_feature/list_comprehension.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/advanced_feature/slice.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/filter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/map_reduce.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/sort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/anonymous_function/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/anonymous_function/anonymous_function.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/decorator/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/decorator/decorator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/partial_function/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/partial_function/partial_function.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/return_function/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/return_function/return_function.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,41 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="params.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions/params.py">
+      <file leaf-file-name="partial_function.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function_programing/partial_function/partial_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="125" column="21" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advanced_feature/slice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iterate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advanced_feature/iterate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list_comprehension.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advanced_feature/list_comprehension.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="595">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,28 +42,8 @@
       <file leaf-file-name="generator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/advanced_feature/generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="27" column="17" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="27" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iterator.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/advanced_feature/iterator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="call_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions/call_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="454">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -126,14 +83,21 @@
         <option value="$PROJECT_DIR$/advanced_feature/genertor.py" />
         <option value="$PROJECT_DIR$/advanced_feature/generator.py" />
         <option value="$PROJECT_DIR$/advanced_feature/iterator.py" />
+        <option value="$PROJECT_DIR$/advanced_function/map_reduce.py" />
+        <option value="$PROJECT_DIR$/advanced_function/filter.py" />
+        <option value="$PROJECT_DIR$/advanced_function/sort.py" />
+        <option value="$PROJECT_DIR$/function_programing/advanced_function/sort.py" />
+        <option value="$PROJECT_DIR$/function_programing/return_function/return_function.py" />
+        <option value="$PROJECT_DIR$/function_programing/anonymous_function/anonymous_function.py" />
+        <option value="$PROJECT_DIR$/function_programing/decorator/decorator.py" />
+        <option value="$PROJECT_DIR$/function_programing/partial_function/partial_function.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="346" />
-    <option name="y" value="385" />
-    <option name="width" value="1264" />
-    <option name="height" value="515" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="722" />
+    <option name="width" value="718" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -181,7 +145,25 @@
             <path>
               <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="advanced_feature" type="462c0819:PsiDirectoryNode" />
+              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
+              <item name="anonymous_function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
+              <item name="partial_function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,6 +175,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/function_programing" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,111 +193,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iterator">
-    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.partial_function">
+    <configuration name="anonymous_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/anonymous_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_feature/generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/anonymous_function/anonymous_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="iterate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/decorator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_feature/iterate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/decorator/decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="partial_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/partial_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_feature/iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/partial_function/partial_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="return_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/return_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_feature/list_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/return_function/return_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="slice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_feature" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_feature/slice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_function/sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.slice" />
-      <item index="1" class="java.lang.String" itemvalue="Python.iterate" />
-      <item index="2" class="java.lang.String" itemvalue="Python.list_comprehension" />
-      <item index="3" class="java.lang.String" itemvalue="Python.generator" />
-      <item index="4" class="java.lang.String" itemvalue="Python.iterator" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sort" />
+      <item index="1" class="java.lang.String" itemvalue="Python.return_function" />
+      <item index="2" class="java.lang.String" itemvalue="Python.anonymous_function" />
+      <item index="3" class="java.lang.String" itemvalue="Python.decorator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.partial_function" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.iterator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.generator" />
-        <item index="2" class="java.lang.String" itemvalue="Python.list_comprehension" />
-        <item index="3" class="java.lang.String" itemvalue="Python.iterate" />
-        <item index="4" class="java.lang.String" itemvalue="Python.slice" />
+        <item index="0" class="java.lang.String" itemvalue="Python.partial_function" />
+        <item index="1" class="java.lang.String" itemvalue="Python.decorator" />
+        <item index="2" class="java.lang.String" itemvalue="Python.anonymous_function" />
+        <item index="3" class="java.lang.String" itemvalue="Python.return_function" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sort" />
       </list>
     </recent_temporary>
   </component>
@@ -331,17 +318,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="346" y="385" width="1264" height="515" extended-state="0" />
+    <frame x="722" y="0" width="718" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11292962" sideWeight="0.4904762" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16420119" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="117" y="468" width="1243" height="231" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33284023" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="117" y="468" width="1243" height="231" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11292962" sideWeight="0.5095238" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16420119" sideWeight="0.50423217" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -416,14 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions/call_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions/def_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -440,10 +420,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions/params.py">
+    <entry file="file://$PROJECT_DIR$/advanced_feature/iterate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="125" column="21" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
+        <state relative-caret-position="-191">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -456,10 +436,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advanced_feature/iterate.py">
+    <entry file="file://$PROJECT_DIR$/functions/params.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="5">
+          <caret line="125" column="21" lean-forward="false" selection-start-line="125" selection-start-column="21" selection-end-line="125" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -472,18 +452,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/functions/call_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/advanced_function/sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/advanced_function/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/advanced_function/map_reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/advanced_feature/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="454">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/anonymous_function/anonymous_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/advanced_feature/iterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
+        <state relative-caret-position="646">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/decorator/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/return_function/return_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/partial_function/partial_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
