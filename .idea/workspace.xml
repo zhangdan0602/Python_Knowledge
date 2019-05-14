@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f3fc1e-2ffd-4072-b368-b3632bb97d2f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/filter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/map_reduce.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/advanced_function/sort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/anonymous_function/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/anonymous_function/anonymous_function.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/decorator/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/decorator/decorator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/partial_function/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/partial_function/partial_function.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/return_function/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/function_programing/return_function/return_function.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/Student.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/access_restrict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/attr.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/extend.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming/getObjectInformation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/enumerate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/meta_class.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/multi_extend.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/property.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/slots.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/module/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/module/install_module.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/module/use_module.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/process_error/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/process_error/process_error.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,21 +33,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="partial_function.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/function_programing/partial_function/partial_function.py">
+      <file leaf-file-name="Student.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/Student.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="-90">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advanced_feature/generator.py">
+      <file leaf-file-name="enumerate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming_advanced/enumerate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="407">
+              <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meta_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming_advanced/meta_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process_error.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/process_error/process_error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="82" column="27" lean-forward="true" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -91,13 +115,27 @@
         <option value="$PROJECT_DIR$/function_programing/anonymous_function/anonymous_function.py" />
         <option value="$PROJECT_DIR$/function_programing/decorator/decorator.py" />
         <option value="$PROJECT_DIR$/function_programing/partial_function/partial_function.py" />
+        <option value="$PROJECT_DIR$/module/use_module.py" />
+        <option value="$PROJECT_DIR$/module/install_module.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming/Student.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming/access_restrict.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming/extend.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming/getObjectInformation.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming/attr.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/slots.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/property.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/multi_EXTEND.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/multi_extend.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/enumerate.py" />
+        <option value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/meta_class.py" />
+        <option value="$PROJECT_DIR$/process_error/process_error.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="722" />
-    <option name="width" value="718" />
-    <option name="height" value="900" />
+    <option name="x" value="515" />
+    <option name="width" value="509" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -145,25 +183,7 @@
             <path>
               <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
-              <item name="anonymous_function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="function_programing" type="462c0819:PsiDirectoryNode" />
-              <item name="partial_function" type="462c0819:PsiDirectoryNode" />
+              <item name="process_error" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,111 +213,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.partial_function">
-    <configuration name="anonymous_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.process_error">
+    <configuration name="enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/anonymous_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/anonymous_function/anonymous_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/enumerate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="meta_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/decorator/decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/meta_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="partial_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="process_error" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/partial_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/process_error" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/partial_function/partial_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process_error/process_error.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="return_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="property" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_programing/return_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_programing/return_function/return_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/property.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="slots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced_function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_Knowledge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_function/sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectOrientedProgramming_advanced/slots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.return_function" />
-      <item index="2" class="java.lang.String" itemvalue="Python.anonymous_function" />
-      <item index="3" class="java.lang.String" itemvalue="Python.decorator" />
-      <item index="4" class="java.lang.String" itemvalue="Python.partial_function" />
+      <item index="0" class="java.lang.String" itemvalue="Python.slots" />
+      <item index="1" class="java.lang.String" itemvalue="Python.property" />
+      <item index="2" class="java.lang.String" itemvalue="Python.enumerate" />
+      <item index="3" class="java.lang.String" itemvalue="Python.meta_class" />
+      <item index="4" class="java.lang.String" itemvalue="Python.process_error" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.partial_function" />
-        <item index="1" class="java.lang.String" itemvalue="Python.decorator" />
-        <item index="2" class="java.lang.String" itemvalue="Python.anonymous_function" />
-        <item index="3" class="java.lang.String" itemvalue="Python.return_function" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.process_error" />
+        <item index="1" class="java.lang.String" itemvalue="Python.meta_class" />
+        <item index="2" class="java.lang.String" itemvalue="Python.enumerate" />
+        <item index="3" class="java.lang.String" itemvalue="Python.property" />
+        <item index="4" class="java.lang.String" itemvalue="Python.slots" />
       </list>
     </recent_temporary>
   </component>
@@ -317,19 +337,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_for_use_module_test1 - 2019.05.14 at 09h 10m 06s.xml">
+      <configuration name="Nosetests for use_module.test1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_use_module_test1 - 2019.05.14 at 09h 11m 50s.xml">
+      <configuration name="Nosetests for use_module.test1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_use_module_test1 - 2019.05.14 at 09h 16m 14s.xml">
+      <configuration name="Nosetests for use_module.test1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_use_module_py - 2019.05.13 at 21h 08m 28s.xml">
+      <configuration name="Nosetests in use_module.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_use_module_py - 2019.05.14 at 09h 09m 29s.xml">
+      <configuration name="Nosetests in use_module.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_use_module_py - 2019.05.14 at 09h 21m 45s.xml">
+      <configuration name="Nosetests in use_module.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="722" y="0" width="718" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16420119" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16420119" sideWeight="0.49369368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33284023" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="117" y="468" width="1243" height="231" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16420119" sideWeight="0.50423217" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16420119" sideWeight="0.5063063" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -484,10 +523,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advanced_feature/generator.py">
+    <entry file="file://$PROJECT_DIR$/advanced_feature/iterator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="646">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_programing/decorator/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -500,25 +547,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advanced_feature/iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function_programing/decorator/decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function_programing/return_function/return_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
+        <state relative-caret-position="918">
           <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
           <folding />
         </state>
@@ -528,6 +559,118 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_feature/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/install_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/use_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/access_restrict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/extend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/getObjectInformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="74" column="9" lean-forward="false" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/attr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming_advanced/multi_extend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming_advanced/property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming_advanced/slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="56" column="12" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming/Student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming_advanced/enumerate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectOrientedProgramming_advanced/meta_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process_error/process_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="82" column="27" lean-forward="true" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
           <folding />
         </state>
       </provider>
